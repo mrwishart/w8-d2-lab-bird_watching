@@ -1,4 +1,6 @@
-# Bird Sightings
+Week 8, Day 2 afternoon paired lab. Practicing adding the create functionality to a full-stack app. Paired with Rob
+
+## Bird Sightings (Original Brief):
 
 Bird Sightings is a full stack JavaScript application with an Express server and MongoDB database.
 
